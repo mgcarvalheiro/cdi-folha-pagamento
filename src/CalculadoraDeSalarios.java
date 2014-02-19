@@ -48,7 +48,7 @@ public class CalculadoraDeSalarios {
 	}
 
 	private int getAnoAtual() {
-		return Calendar.YEAR + 1;
+		return Calendar.getInstance().get(Calendar.YEAR);
 	}
 
 }
