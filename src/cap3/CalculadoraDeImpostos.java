@@ -1,3 +1,4 @@
+package cap3;
 import javax.annotation.PostConstruct;
 import javax.inject.Inject;
 

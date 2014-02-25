@@ -1,3 +1,4 @@
+package cap3;
 import org.junit.Assert;
 import org.junit.Test;
 

@@ -1,3 +1,4 @@
+package cap4;
 
 public class Cargo {
 	private double salarioBase;

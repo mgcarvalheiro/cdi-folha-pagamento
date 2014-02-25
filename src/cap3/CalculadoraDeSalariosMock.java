@@ -1,3 +1,4 @@
+package cap3;
 import javax.enterprise.inject.Vetoed;
 
 @Vetoed

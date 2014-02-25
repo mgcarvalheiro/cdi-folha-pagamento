@@ -1,3 +1,4 @@
+package cap3;
 	
 
 import java.io.IOException;

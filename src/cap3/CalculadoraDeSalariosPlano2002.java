@@ -1,3 +1,4 @@
+package cap3;
 public class CalculadoraDeSalariosPlano2002 implements CalculadoraDeSalariosI {
 
 	public double calculaSalario(Funcionario funcionario) {

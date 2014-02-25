@@ -1,3 +1,4 @@
+package cap3;
 public class CalculadoraDeSalariosFactory {
 	
 	public CalculadoraDeSalariosI criaCalculadora() {
